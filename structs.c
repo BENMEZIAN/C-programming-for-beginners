@@ -24,7 +24,8 @@ Declaration of struct variable:
 Syntax: <typeName> var;
 
 example:
--------- person prs;
+-------- 
+person prs;
 
 Access and set members:
 -----------------------
