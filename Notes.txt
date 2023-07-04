@@ -59,7 +59,37 @@ enums in c
 malloc() in c
 https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/
 
+array and pointer program in c
+-- https://www.tutorialspoint.com/cprogramming/c_array_of_pointers.htm
 
+display array with addresses using pointers in c
+-- https://www.technosap.com/c-programming/examples/print-elements-of-array-using-pointers/
+-- https://www.codezclub.com/c-print-value-address-array-pointer/
+-- https://www.programiz.com/c-programming/examples/access-array-pointer
+-- https://www.programming9.com/programs/c-programs/104-array-address-locations-using-pointers
+-- https://www.codesansar.com/c-programming-examples/read-array-and-display-its-value-address-using-pointer.htm
+
+array of strings in c
+-- https://www.geeksforgeeks.org/array-of-strings-in-c/
+
+array of strings using pointers in c
+-- https://overiq.com/c-programming-101/array-of-pointers-to-strings-in-c/
+
+strcspn in c
+
+strcpy in c
+-- https://www.programiz.com/c-programming/library-function/string.h/strcpy
+
+file handling in c
+-- https://www.javatpoint.com/file-handling-in-c
+-- https://www.geeksforgeeks.org/basics-file-handling-c/
+
+read content file in c
+-- https://www.geeksforgeeks.org/c-program-to-read-contents-of-whole-file/
+
+
+read and display content file in c
+-- https://codeforwin.org/c-programming/c-program-read-and-display-file-contents
 -------------------------------------------------------------------
 For practicing
 https://www.programiz.com/c-programming/c-functions-examples
